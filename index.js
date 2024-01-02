@@ -1,4 +1,4 @@
-const password="Zz@7889514001"
+const password="password"
 
 
 import express from "express";
